@@ -1,5 +1,9 @@
 # Phase 3 Code Challenge: Articles - without SQLAlchemy (Updated)
 
+## video link
+https://youtu.be/YvF81W6T44s
+
+
 In this code challenge, you will be working with a Magazine domain.
 
 We have three models: `Author`, `Article`, and `Magazine`.
